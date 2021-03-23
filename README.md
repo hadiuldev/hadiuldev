@@ -1,4 +1,4 @@
-### Hi there, I'm  [Hadiul Islam][website] 👋
+# Hi there, I'm  [Hadiul Islam][website] 👋
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🌱 I’m currently learning everything 🤣
