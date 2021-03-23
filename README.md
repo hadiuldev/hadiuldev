@@ -42,7 +42,7 @@
 <br />
 <img width="550px" alt="Hadiul Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=hadiuldev&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/hadiuldev/hadiuldev)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiuldev&card_width=550)](https://github.com/hadiuldev/hadiuldev)
 
 
 
