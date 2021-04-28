@@ -2,7 +2,7 @@
 
 ## I'm a 😍😍 JavaScript Lover 😍😍!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: TypeScript, Next.js, Vue , Angular
+- 🥅 2021 Goals: C, TypeScript, Next.js, Vue , Angular
 - ⚡ Fun fact: I love to Explore the world 
 
 ### Connect with me:
