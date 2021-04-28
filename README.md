@@ -7,8 +7,8 @@
 
 ### Connect with me:
 
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hadiuldev/) 
-[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hadiuldev) 
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/hadiul-islam/) 
+[![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/hadiul-islam) 
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=medium&logoColor=ffffff)](https://medium.com/@hadiul) 
 [![Questions](https://img.shields.io/badge/%20-Questions-black?color=14171A&labelColor=fff&logo=stackoverflow&logoColor=0c0d0e26)](https://stackoverflow.com/users/14697411/hadiul-islam?tab=profile)
 
@@ -40,15 +40,15 @@
 
 <br />
 <br />
-<img width="550px" alt="Hadiul Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=hadiuldev&show_icons=true"/>
+<img width="550px" alt="Hadiul Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=hadiul-islam&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiuldev&card_width=550)](https://github.com/hadiuldev/hadiuldev)
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiul-islam&card_width=550)](https://github.com/hadiul-islam/hadiul-islam)
 
 
 
 [website]: https://hadiul.me/
-[twitter]: https://twitter.com/hadiuldev
-[linkedin]: https://linkedin.com/hadiuldev
+[twitter]: https://twitter.com/hadiul-islam
+[linkedin]: https://linkedin.com/hadiul-islam
 [webdevplaylist]: https://hadiul.me/
 [jsplaylist]: https://hadiul.me/
 [cssplaylist]: https://hadiul.me/
